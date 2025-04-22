@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:glass_pane"
+    },
+    "title": "Locator Vanish",
+    "description": {
+      "translate": "jbt:adv_root_desc",
+      "fallback": "Hide yourself from the player locator!"
+    },
+    "background": "minecraft:block/mossy_cobblestone",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

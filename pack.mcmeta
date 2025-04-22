@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 74,
+    "description": "Hide yourself from the player locator!"
+  },
+  "id": "locatorvanish"
+}

@@ -1,0 +1,1 @@
+execute as @a if score @s locatorvanish.click_check matches 1.. at @s run function locatorvanish:use

@@ -1,0 +1,1 @@
+give @s minecraft:warped_fungus_on_a_stick[minecraft:custom_name=["",{"text":"Vanish Stone","italic":false}],minecraft:item_model="flint",minecraft:custom_data={"locatorvanish_stone":true,"smithed":{"ignore":{"functionality":true,"crafting":true}}},minecraft:enchantment_glint_override=true]
